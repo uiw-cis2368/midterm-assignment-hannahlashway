@@ -1,0 +1,50 @@
+#bannerimage {
+    width: 100%;
+    background-image: url(about\ me\ header\ copy.jpg);
+    height: 500px;
+    background-size: cover;
+    background-position: relative;
+   
+  }
+
+.intro{
+text-align: justify;
+font-family: Georgia;
+font-size: 35px;
+padding-left: 250px;
+padding-right: 250px;
+padding-top: 60px;
+vertical-align: top;
+padding-bottom: 70px;
+}
+
+.ams{
+text-align: justify;
+font-size: 25px;
+font-family:Arial narrow;
+padding-top: 50px;
+padding-right: 175px;
+padding-bottom: 70px;
+
+
+}
+
+.icarus{
+text-align: justify;
+font-size: 25px;
+font-family:Arial narrow;
+padding-top: 50px;
+padding-right: 175px;
+padding-bottom: 70px;
+    
+    
+}
+.vinyl{
+    text-align: justify;
+    font-size: 25px;
+    font-family:Arial narrow;
+    padding-top: 50px;
+    padding-right: 175px;
+    padding-bottom: 70px;
+
+}
